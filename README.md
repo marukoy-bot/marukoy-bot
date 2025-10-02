@@ -1,16 +1,21 @@
-## Hi there 👋
+## Yo! 👋
+<div align="center">
 
-<!--
-**marukoy-bot/marukoy-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering gradute from TUP-V. Hardware + Software, best of both worlds
 
-Here are some ideas to get you started:
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,cs,dotnet,unity,github,mysql,python,tensorflow,visualstudio,vscode" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+| Hardware | Software |
+| :---: | :---: |
+| Arduino <br> Espressif <br> Raspberry Pi Pico <br> FPGA & CPLD <br> Digital Electronics <br> PCB Desing and Layout <br> Enbedded Systems <br> Internet of Things (IoT) | C/C++ <br> C# <br> Unity <br> Python <br> Tensorflow <br> PlatformIO <br> Arduino IDE <br> Quartus & ModelSim <br> Gowin (Sipeed)| 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukoy-bot&layout=compact&theme=transparent&title_color=c9c9c9&text_color=c9c9c9)  
+
+</div>
