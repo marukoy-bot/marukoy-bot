@@ -17,6 +17,4 @@ Computer Engineering gradute from TUP-V. <br> Hardware + Software, best of both 
 | :---: | :---: |
 | Arduino <br> Espressif <br> Raspberry Pi Pico <br> FPGA & CPLD <br> Digital Electronics <br> PCB Desing and Layout <br> Embedded Systems <br> Internet of Things (IoT) | C/C++ <br> C# <br> Unity <br> Python <br> Tensorflow <br> PlatformIO <br> Arduino IDE <br> Quartus & ModelSim <br> Gowin (Sipeed)| 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukoy-bot&layout=compact&theme=transparent&title_color=c9c9c9&text_color=c9c9c9)  
-
 </div>
